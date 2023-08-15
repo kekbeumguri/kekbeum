@@ -1,4 +1,4 @@
-#JSE Com.
+# JSE Com.
 Welcome to JSE Com., where the world of programming unfolds!
 
 At JSE Com., we believe that power is gained by sharing knowledge, not hoarding it. That's why we're dedicated to teaching the fundamentals of programming to anyone with a passion for learning.
