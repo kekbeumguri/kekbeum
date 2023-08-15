@@ -1,3 +1,13 @@
+#JSE Com.
+Welcome to JSE Com., where the world of programming unfolds!
+
+At JSE Com., we believe that power is gained by sharing knowledge, not hoarding it. That's why we're dedicated to teaching the fundamentals of programming to anyone with a passion for learning.
+
+With courses in Python, JavaScript, and Java, we cover some of the most popular and influential programming languages in the tech industry today. Whether you're a beginner looking to learn the basics or a seasoned coder seeking to enhance your skills, our comprehensive and accessible lessons are designed to keep you ahead of the curve.
+
+Join us on this exciting journey and become part of the ever-growing community of programmers. Your coding future starts here."
+
+Feel free to adjust this message to better fit your company's tone and style.
 Printing a string multiple times is a common task in programming. Depending on the language, there are a few different ways to solve this problem. Here are examples in a few different languages.
 
 # Python:
