@@ -33,4 +33,3 @@ for (int i = 0; i < 3; i++) {
 This code is similar to the JavaScript code. The only difference is that the datatype of the counter variable 'i' needs to be declared (in this case, it's an integer), and the text to be printed needs to be in double quotes.
 
 These examples can be easily adjusted for other programming languages as well.
-# kekbeum
